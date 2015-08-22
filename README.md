@@ -44,6 +44,6 @@ Arguments:
         Display this help message.
 ```
 
-#Bugs
+## Bugs
 
 Please report any bugs using the Github issue tracker.
