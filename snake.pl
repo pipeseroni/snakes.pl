@@ -139,7 +139,7 @@ for(my $i=0; $i<$num_pipes; $i++){
 #Initialise terminal. This says "save state, clear the screen and make the
 #cursor invisible."
 system 'tput smcup';
-system 'tput reset';
+system 'tput clear';
 system 'tput civis';
 
 #Catch interrupts and stop main loop
